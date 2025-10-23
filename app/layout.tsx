@@ -5,9 +5,8 @@ import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  title: 'Game Memory Master',
+  description: 'Es un juego de memoria interactivo y completamente responsive construido con Next.js y Tailwind CSS. Combina mecánicas clásicas de juegos de memoria con un diseño moderno, animaciones suaves y un sistema de puntuación progresivo que mantiene a los jugadores enganchados.',
 }
 
 export default function RootLayout({
